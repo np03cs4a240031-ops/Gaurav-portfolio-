@@ -61,6 +61,14 @@ color: #2563eb;}
   border-radius: 50%;
 }
 .section { padding: 20px 0; }
+#project2{
+  display: inline-block;
+  background: #2563eb;
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+}
 .skills {
   list-style: none;
   padding: 0;
